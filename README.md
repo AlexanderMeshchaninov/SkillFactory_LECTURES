@@ -75,4 +75,4 @@
 
 * [Lesson-36 - Работа с датами, рассстояниями, кодированием, маштабирование признаков, обработка пропусков и выбросов, отбор признаков через RFE, фильтры, SelektKbest, работа с CometML, трансформация распределений с помощью Power Transformer Scaler](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-36);
 
-* [Lesson-37 - Оптимизация гиперпараметров, metric learning, Пайплайны, Ансамблирование моделей](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-37);
+* [Lesson-37 - Оптимизация гиперпараметров, metric learning, Пайплайны, Ансамблирование моделей, подбор гиперпараметров: GridSearchCV, RandomizedSearchCV, Hyperopt, Optuna](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-37);
