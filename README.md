@@ -72,3 +72,5 @@
 * [Lesson-34 - Кластеризация и ее визуализация, понижение размерности: обучение без учителя (кластеризация) - теория и практика](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-34);
 
 * [Lesson-35 - Валидация данных, недообучение и переобучение: теория и практика, кривая обучения](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-35);
+
+* [Lesson-36 - Работа с датами, рассстояниями, кодированием, маштабирование признаков, обработка пропусков и выбросов, отбор признаков через RFE, фильтры, SelektKbest, работа с CometML, трансформация распределений с помощью Power Transformer Scaler](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-36);
