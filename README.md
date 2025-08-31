@@ -74,3 +74,5 @@
 * [Lesson-35 - Валидация данных, недообучение и переобучение: теория и практика, кривая обучения](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-35);
 
 * [Lesson-36 - Работа с датами, рассстояниями, кодированием, маштабирование признаков, обработка пропусков и выбросов, отбор признаков через RFE, фильтры, SelektKbest, работа с CometML, трансформация распределений с помощью Power Transformer Scaler](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-36);
+
+* [Lesson-37 - Оптимизация гиперпараметров, metric learning, Пайплайны, Ансамблирование моделей](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-37);
